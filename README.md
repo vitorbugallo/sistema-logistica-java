@@ -21,3 +21,9 @@ Sistema de gerenciamento de entregas com cadastro de entregadores, atribuição 
 - service/ — SistemaLogistica com a lógica de negócio
 - Main.java — menu interativo via terminal
 
+## Como Executar
+
+1. Clone o repositório
+2. Abra no IntelliJ IDEA ou Eclipse
+3. Execute a classe Main.java
+
